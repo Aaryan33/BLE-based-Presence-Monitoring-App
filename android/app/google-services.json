@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406970501510",
+    "project_id": "bluetoothbeacon-99e3e",
+    "storage_bucket": "bluetoothbeacon-99e3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406970501510:android:befaf81c29e419d4f9c407",
+        "android_client_info": {
+          "package_name": "com.example.smartattendancebeacon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQD1uEkrKURWm1-pxyGhXbS2x8zt-a08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
