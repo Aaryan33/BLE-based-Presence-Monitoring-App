@@ -1,4 +1,4 @@
-# smartattendancebeacon
+# BLE-based Presence Monitoring App
 
 A new Flutter project.
 
